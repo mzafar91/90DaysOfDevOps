@@ -1,0 +1,14 @@
+Solution by majid
+
+Day 2 Task: Basics linux command
+
+Task: What is the linux command to
+
+Check your present working directory.
+pwd --->command use to check persent working directory
+
+List all the files or directories including hidden files.
+ls -la    -----> command use t check file and directory including hidden
+
+Create a nested directory A/B/C/D/E
+mkdir -P A/B/C/D/E        ------> to create nested directory
